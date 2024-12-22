@@ -1,0 +1,15 @@
+- learning python
+- learning gaming physic
+- cto, no time anymore to code, just want a pet project
+- new to python, too exited to start the project, not sure what was the best syntax, no standard followed
+- advance game
+- real simple mechanice but rich gameplay enjoyable
+- advance effect such as explosion, flash, shake, and more
+- bakground engine supporting several layers
+- framework allow to make advance pyshic with minimum code noise
+	vector, point, collision
+	movement and rotation
+	timer base, non blocking logic
+	runner allow game navigation without noise in gaming logic
+	
+
