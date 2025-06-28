@@ -19,7 +19,7 @@ class RectangleDrawer:
     def draw(self, rectBox, vOffset):
         
         pt = rectBox.box.pt
-        if(rectBox.applyOffset): #shake effects43
+        if(rectBox.applyOffset): #shake effects
             pt += vOffset
         
         if(rectBox.mode == RectangleMode.FILLED):
